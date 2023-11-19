@@ -1,0 +1,30 @@
+C:\Users\Renan\source\repos\CSharpCourse\bin\Debug\net6.0\CSharpCourse.exe
+C:\Users\Renan\source\repos\CSharpCourse\bin\Debug\net6.0\CSharpCourse.deps.json
+C:\Users\Renan\source\repos\CSharpCourse\bin\Debug\net6.0\CSharpCourse.runtimeconfig.json
+C:\Users\Renan\source\repos\CSharpCourse\bin\Debug\net6.0\CSharpCourse.dll
+C:\Users\Renan\source\repos\CSharpCourse\bin\Debug\net6.0\CSharpCourse.pdb
+C:\Users\Renan\source\repos\CSharpCourse\obj\Debug\net6.0\CSharpCourse.csproj.AssemblyReference.cache
+C:\Users\Renan\source\repos\CSharpCourse\obj\Debug\net6.0\CSharpCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\source\repos\CSharpCourse\obj\Debug\net6.0\CSharpCourse.AssemblyInfoInputs.cache
+C:\Users\Renan\source\repos\CSharpCourse\obj\Debug\net6.0\CSharpCourse.AssemblyInfo.cs
+C:\Users\Renan\source\repos\CSharpCourse\obj\Debug\net6.0\CSharpCourse.csproj.CoreCompileInputs.cache
+C:\Users\Renan\source\repos\CSharpCourse\obj\Debug\net6.0\CSharpCourse.dll
+C:\Users\Renan\source\repos\CSharpCourse\obj\Debug\net6.0\refint\CSharpCourse.dll
+C:\Users\Renan\source\repos\CSharpCourse\obj\Debug\net6.0\CSharpCourse.pdb
+C:\Users\Renan\source\repos\CSharpCourse\obj\Debug\net6.0\CSharpCourse.genruntimeconfig.cache
+C:\Users\Renan\source\repos\CSharpCourse\obj\Debug\net6.0\ref\CSharpCourse.dll
+E:\CARREIRA DEV\Estudos\Udemy - C# Curso Completo Do Básico ao Avançado\repos\CSharpCourse\bin\Debug\net6.0\CSharpCourse.exe
+E:\CARREIRA DEV\Estudos\Udemy - C# Curso Completo Do Básico ao Avançado\repos\CSharpCourse\bin\Debug\net6.0\CSharpCourse.deps.json
+E:\CARREIRA DEV\Estudos\Udemy - C# Curso Completo Do Básico ao Avançado\repos\CSharpCourse\bin\Debug\net6.0\CSharpCourse.runtimeconfig.json
+E:\CARREIRA DEV\Estudos\Udemy - C# Curso Completo Do Básico ao Avançado\repos\CSharpCourse\bin\Debug\net6.0\CSharpCourse.dll
+E:\CARREIRA DEV\Estudos\Udemy - C# Curso Completo Do Básico ao Avançado\repos\CSharpCourse\bin\Debug\net6.0\CSharpCourse.pdb
+E:\CARREIRA DEV\Estudos\Udemy - C# Curso Completo Do Básico ao Avançado\repos\CSharpCourse\obj\Debug\net6.0\CSharpCourse.csproj.AssemblyReference.cache
+E:\CARREIRA DEV\Estudos\Udemy - C# Curso Completo Do Básico ao Avançado\repos\CSharpCourse\obj\Debug\net6.0\CSharpCourse.GeneratedMSBuildEditorConfig.editorconfig
+E:\CARREIRA DEV\Estudos\Udemy - C# Curso Completo Do Básico ao Avançado\repos\CSharpCourse\obj\Debug\net6.0\CSharpCourse.AssemblyInfoInputs.cache
+E:\CARREIRA DEV\Estudos\Udemy - C# Curso Completo Do Básico ao Avançado\repos\CSharpCourse\obj\Debug\net6.0\CSharpCourse.AssemblyInfo.cs
+E:\CARREIRA DEV\Estudos\Udemy - C# Curso Completo Do Básico ao Avançado\repos\CSharpCourse\obj\Debug\net6.0\CSharpCourse.csproj.CoreCompileInputs.cache
+E:\CARREIRA DEV\Estudos\Udemy - C# Curso Completo Do Básico ao Avançado\repos\CSharpCourse\obj\Debug\net6.0\CSharpCourse.dll
+E:\CARREIRA DEV\Estudos\Udemy - C# Curso Completo Do Básico ao Avançado\repos\CSharpCourse\obj\Debug\net6.0\refint\CSharpCourse.dll
+E:\CARREIRA DEV\Estudos\Udemy - C# Curso Completo Do Básico ao Avançado\repos\CSharpCourse\obj\Debug\net6.0\CSharpCourse.pdb
+E:\CARREIRA DEV\Estudos\Udemy - C# Curso Completo Do Básico ao Avançado\repos\CSharpCourse\obj\Debug\net6.0\CSharpCourse.genruntimeconfig.cache
+E:\CARREIRA DEV\Estudos\Udemy - C# Curso Completo Do Básico ao Avançado\repos\CSharpCourse\obj\Debug\net6.0\ref\CSharpCourse.dll
